@@ -1,6 +1,3 @@
-Here’s the complete **README.md** file for your repository:
-
-```markdown
 # Twitter Quote Bot
 
 This repository contains the source code for a Twitter bot that automatically posts inspirational and philosophical quotes. The bot uses Python to scrape quotes, maintain a database, and post them to Twitter using the Tweepy library. It is designed to be flexible and easy to use, with configurable settings for customizing the bot’s behavior.
